@@ -2,4 +2,4 @@
 
 Visualized COVID-19 mobility through an interactive Tableau dashboard tracking real-time change in customer footprint in public places such as grocery stores and transit
 
-Link: https://public.tableau.com/app/profile/sourabh.koul/viz/COVID19MobilityDashboard/Dashboard1
+Dashbaord Link: https://public.tableau.com/app/profile/sourabh.koul/viz/COVID19MobilityDashboard/Dashboard1
